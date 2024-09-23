@@ -1,7 +1,7 @@
 # Task Assignment System
 - Assignment Project for JForce
 
-### to run local server - "npm run dev"
+### To start - ```npm run dev```
 
 - Outputs
 1. Home Page
