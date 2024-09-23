@@ -1,0 +1,93 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+
+}
+.flex{
+  display: flex;
+}
+.h-c{
+  justify-content: center;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  width: auto;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 1px gray;
+  gap: 20px;
+}
+.head{
+  font-size: 45px;
+}
+.addtask_tasklist{
+  font-size: 25px;
+  gap: 50px;
+}
+a{
+  color: rgb(0, 200, 0);
+  text-decoration: none;
+}
+.note{
+  font-size: 20px;
+}
+/* for new */
+.form_title{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+}
+
+input, option, button{
+  width: 700px;
+  height: 25px;
+  border-radius: 5px;
+}
+button{
+  height: 40px;
+  background-color: rgb(0, 200, 0);
+  font-size: 20px;
+  padding: 10px;
+}
+
+.list_page{
+  color: rgb(0, 200, 0);
+  width: 700px;
+  justify-content: space-between;
+}
+.name{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.list_detail{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.complete , .complete_detail{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.complete_detail{
+  width: 700px;
+}
+.green_text{
+  color: rgb(0, 200, 0);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+}
