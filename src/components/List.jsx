@@ -8,7 +8,7 @@ const List = () => {
           <div className="head flex h-c">Task List</div>
           <div className="list_page flex">
             <div className="complete">Complete Project Report</div>
-             <div className="view_details"><Link to="Details">View Details</Link></div>
+             <div className="view_details"><Link to="/Details">View Details</Link></div>
           </div>
           <div className="list_detail">
             <div className="listinput flex">

@@ -21,8 +21,8 @@ const Details = () => {
           </div>
 
           <div className="green_text">
-            <div><Link to="New">Update Task</Link></div>
-            <div><Link to="List">Back to Task List</Link></div>
+            <div><Link to="/New">Update Task</Link></div>
+            <div><Link to="/List">Back to Task List</Link></div>
           </div>
         </div>
       </div>
