@@ -1,7 +1,7 @@
 # Task Assignment System
-### Assignment Project for JForce
+- Assignment Project for JForce
 
-## to run local server - "npm run dev"
+### To start - ```npm run dev```
 
 - Outputs
 1. Home Page
@@ -15,3 +15,5 @@
 
 4. Task List Page
 ![alt text](image-3.png)
+
+### Tech used : React - Vite
